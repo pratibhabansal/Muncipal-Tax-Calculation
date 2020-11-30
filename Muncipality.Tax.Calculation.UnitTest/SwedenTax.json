@@ -1,0 +1,22 @@
+{
+  "MuncipalityName": "Sweden",
+  "YearlyTax": {
+    "FromDate": "01/01/2020",
+    "ToDate": "31/12/2020",
+    "TaxAmount": 0.1
+  },
+  "MonthlyTax": {
+    "FromDate": "01/05/2020",
+    "ToDate": "31/05/2020",
+    "TaxAmount": 0.2
+  },
+  "WeeklyTax": {
+    "FromDate": "13/07/2020",
+    "ToDate": "19/07/2020",
+    "TaxAmount": 0.3
+  },
+  "DailyTax": {
+    "Dates": "06/06/2020,07/07/2020,08/08/2020",
+    "TaxAmount": 0.4
+  }
+}
